@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.javatar</groupId>
-    <artifactId>genres-servic</artifactId>
+    <artifactId>genres-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>genres-servic</name>
-    <description>genres-servic</description>
+    <name>genres-service</name>
+    <description>genres-service</description>
     <url/>
     <licenses>
         <license/>
